@@ -9,9 +9,7 @@
 
 - 目录阅读：[进入](https://github.com/LingCoder/OnJava8/blob/master/SUMMARY.md)
 
-- GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
-
-- Gitee Pages 完整阅读：[进入](https://lingcoder.gitee.io/onjava8/)
+- GitHub Pages 完整阅读：[进入](https://liuweigl.github.io/OnJava8/)
 
 ## 翻译进度
 
